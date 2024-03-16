@@ -20,6 +20,23 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+
+
+First, run the storybook:
+
+```bash
+npm run storybook
+# or
+yarn storybook
+# or
+pnpm storybook
+# or
+bun storybook
+```
+
+Open [http://localhost:6007](http://localhost:6007) with your browser to see the result.
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
